@@ -8,3 +8,6 @@
 
 
 [[E-02] Scikit-learn dataset modeling](https://nbviewer.jupyter.org/github/kongjeongbae/aiffel/blob/master/%5BE-02%5D%20Scikit-learn%20dataset%20modeling.ipynb)
+
+[[E-03] Camera Sticker App](https://nbviewer.org/github/kongjeongbae/aiffel/blob/master/%5BE-03%5D%20Camera%20Sticker%20App.ipynb)
+
