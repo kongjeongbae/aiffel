@@ -12,3 +12,5 @@
 [[E-03] Camera Sticker App](https://nbviewer.org/github/kongjeongbae/aiffel/blob/master/%5BE-03%5D%20Camera%20Sticker%20App.ipynb)
 
 [[E-04] Lyrics RNN](https://nbviewer.org/github/kongjeongbae/aiffel/blob/master/%5BE-04%5D%20Lyrics%20RNN.ipynb)
+
+[[E-05] Face Embedding](https://nbviewer.org/github/kongjeongbae/aiffel/blob/master/%5BE-05%5D%20Face%20Embedding.ipynb)
