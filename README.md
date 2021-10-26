@@ -15,3 +15,5 @@
 [[E-05] Face Embedding](https://nbviewer.org/github/kongjeongbae/aiffel/blob/master/%5BE-05%5D%20Face%20Embedding.ipynb)
 
 [[E-06] House Pricing Regression](https://nbviewer.org/github/kongjeongbae/aiffel/blob/master/%5BE-06%5D%20House%20Pricing%20Regression.ipynb)
+
+[[E-08] Shallow Focus](https://nbviewer.org/github/kongjeongbae/aiffel/blob/master/%5BE-08%5D%20Shallow%20Focus.ipynb)
