@@ -2,3 +2,4 @@ data/
 .idea/
 .ipynb_checkpoints/
 venv/
+dlib-19.22/
